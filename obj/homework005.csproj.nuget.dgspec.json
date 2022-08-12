@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Данил\\Desktop\\новое\\homework005\\homework005.csproj": {}
+    "A:\\git work\\С#\\home2\\homework005\\homework005.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Данил\\Desktop\\новое\\homework005\\homework005.csproj": {
+    "A:\\git work\\С#\\home2\\homework005\\homework005.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Данил\\Desktop\\новое\\homework005\\homework005.csproj",
+        "projectUniqueName": "A:\\git work\\С#\\home2\\homework005\\homework005.csproj",
         "projectName": "homework005",
-        "projectPath": "C:\\Users\\Данил\\Desktop\\новое\\homework005\\homework005.csproj",
+        "projectPath": "A:\\git work\\С#\\home2\\homework005\\homework005.csproj",
         "packagesPath": "C:\\Users\\Данил\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Данил\\Desktop\\новое\\homework005\\obj\\",
+        "outputPath": "A:\\git work\\С#\\home2\\homework005\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Данил\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.303\\RuntimeIdentifierGraph.json"
         }
       }
     }

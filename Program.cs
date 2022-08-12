@@ -1,6 +1,11 @@
 ﻿// Напишите программу, которая принимает на вход трёхзначное число и на выходе показывает вторую цифру этого числа.
-Console.WriteLine("enter a free-digit namber");
-int number = Convert.ToInt32(Console.ReadLine());
-int digit = number / 010;
-Console.WriteLine(digit1);
+int number = new Random().Next(100, 1000);
+Console.WriteLine(number);
+string str_number = number.ToString();
+char digit2 = str_number[1];
+string new_number = digit2.ToString();
+int new_str_number = Convert.ToInt32(new_number);
+Console.WriteLine(new_str_number);
+
+
 
